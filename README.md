@@ -55,7 +55,7 @@ Use `Ctrl + Shift + M` no navegador (modo responsivo) para testar as diferentes 
 ## 🧪 Testes Automatizados 
 
 📋 Passo a passo de funcionamento
-Ao carregar a página, o script aguarda o DOM estar pronto (DOMContentLoaded).
+Ao carregar a página Aperta a tecla F12 e veja o console, o script aguarda o DOM estar pronto (DOMContentLoaded).
 
 Detecta e adiciona escuta ao botão "Não reconheço":
 
