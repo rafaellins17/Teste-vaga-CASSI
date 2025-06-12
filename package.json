@@ -1,0 +1,13 @@
+{
+  "name": "projeto-cassi-nip",
+  "version": "1.0.0",
+  "description": "Interface NIP CASSI",
+  "scripts": {
+    "lint": "eslint . --ext .js",
+    "format": "prettier . --write"
+  },
+  "devDependencies": {
+    "eslint": "^9.28.0",
+    "prettier": "^3.0.0"
+  }
+}
